@@ -6,8 +6,8 @@ import java.util.Objects;
 public class Insumos {
 
     private int id;
-    private String[] insumos = {"Mancuernas", "Barras", "Press Banca", "Puching Bag"};
-    private int[] precios = {30000, 12000, 120000, 50000};
+    private String[] insumos = {"Mancuernas", "Barras", "Press Banca", "Puching Bag", "Guantes", "Corredora"};
+    private int[] precios = {30000, 12000, 120000, 50000, 25000, 150000};
     private int stock;
 
     public Insumos(){}
